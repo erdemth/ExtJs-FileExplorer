@@ -1,0 +1,5 @@
+# ExtJs File Explorer
+
+FileExplorer is a web based application providing direct access to the servers filesystem.
+Built with PHP and ExtJs 3.1.1
+Currently works on Linux

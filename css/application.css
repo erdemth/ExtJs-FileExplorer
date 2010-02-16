@@ -1,0 +1,92 @@
+.row-item {
+	padding-top:2px;
+	background-position: 0 2px;
+	background-repeat:no-repeat;
+	padding:3px 0 2px 22px;
+	background-image:url(../img/page_white.png) !important;
+}
+
+/* file types */
+.folder-explore {
+	background-image:url(../img/folder_explore.png) !important;
+}
+.dir {
+	background-image:url(../img/folder.png) !important;
+}
+.file {
+	background-image:url(../img/page_white.png) !important;
+}
+.txt {
+	background-image:url(../img/page_white_text.png) !important;
+}
+.sh {
+	background-image:url(../img/page_white_code.png) !important;
+}
+.pl {
+	background-image:url(../img/page_white_code_red.png) !important;
+}
+.bash, .bsh {
+	background-image:url(../img/page_white_tux.png) !important;
+}
+.java {
+	background-image:url(../img/source_java.png) !important;
+}
+.php {
+	background-image:url(../img/page_white_php.png) !important;
+}
+.js, .json {
+	background-image:url(../img/application-javascript.png) !important;
+}
+.html, .htm {
+	background-image:url(../img/html.png) !important;
+}
+.xml {
+	background-image:url(../img/xhtml.png) !important;
+}
+.css {
+	background-image:url(../img/page_white_swoosh.png) !important;
+}
+.sql {
+	background-image:url(../img/data-sql-query.png) !important;
+}
+.flash {
+	background-image:url(../img/page_white_flash.png) !important;
+}
+.img, .png, .jpeg, .jpg, .gif {
+	background-image:url(../img/picture.png) !important;
+}
+.excel, .xls, .xlsx, .csv {
+	background-image:url(../img/page_white_excel.png) !important;
+}
+.word, .doc, .docx {
+	background-image:url(../img/page_word.png) !important;
+}
+.powerpoint, .ppt, .pptx {
+	background-image:url(../img/page_white_powerpoint.png) !important;
+}
+.pdf {
+	background-image:url(../img/page_white_acrobat.png) !important;
+}
+.exe {
+	background-image:url(../img/page_gear.png) !important;
+}
+.zip, .gz, .rar {
+	background-image:url(../img/compress.png) !important;
+}
+.jar {
+	background-image:url(../img/java_jar.png) !important;
+}
+
+/*	Buttons */
+.back {
+    background-image: url(../img/Back.png) !important;
+}
+.forward {
+    background-image: url(../img/Forward.png) !important;
+}
+.refresh {
+    background-image: url(../img/Reload.png) !important;
+}
+.upload {
+    background-image: url(../img/UploadFile.png) !important;
+}
