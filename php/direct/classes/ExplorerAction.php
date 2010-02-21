@@ -83,8 +83,8 @@ class ExplorerAction {
      * @return json
      */	
 	function _getdirsize($path) 
-    { 
+	{ 
 		$result=explode("\t",exec("du -s ".$path),2); 
-		return ($result[1]==$path ? $result[0] : "error"); 
-    }
+		return ($result[1]==$path ? $result[0]* 512 : "error"); 
+	}
 }
